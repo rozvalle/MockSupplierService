@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "HP LaserJet Pro M15w Printer",
+    "price": 4500,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Canon PIXMA G3010 All-in-One Printer",
+    "price": 7200,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "name": "Lenovo IdeaPad Slim 3 Ryzen 5",
+    "price": 24500,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": "Acer Aspire 5 Intel i5 12th Gen",
+    "price": 31500,
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "name": "Logitech MX Master 3S Mouse",
+    "price": 3900,
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "name": "Razer BlackWidow V4 Keyboard",
+    "price": 6900,
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "name": "Intel Core i5-12400 Processor",
+    "price": 8800,
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "name": "AMD Ryzen 5 5600X CPU",
+    "price": 9600,
+    "stock": 6
+  },
+  {
+    "id": 9,
+    "name": "ASUS TUF B550M-Plus Motherboard",
+    "price": 7200,
+    "stock": 9
+  },
+  {
+    "id": 10,
+    "name": "MSI GeForce RTX 3060 12GB GPU",
+    "price": 18600,
+    "stock": 4
+  },
+  {
+    "id": 11,
+    "name": "Samsung 980 Pro 1TB NVMe SSD",
+    "price": 5300,
+    "stock": 11
+  },
+  {
+    "id": 12,
+    "name": "Corsair Vengeance 16GB DDR4 3200MHz RAM",
+    "price": 3200,
+    "stock": 14
+  },
+  {
+    "id": 13,
+    "name": "Cooler Master MasterBox NR600 Case",
+    "price": 2700,
+    "stock": 10
+  },
+  {
+    "id": 14,
+    "name": "Logitech C920 HD Webcam",
+    "price": 3200,
+    "stock": 13
+  },
+  {
+    "id": 15,
+    "name": "TP-Link Archer AX10 Wi-Fi 6 Router",
+    "price": 3100,
+    "stock": 9
+  }
+]
