@@ -1,92 +1,602 @@
 [
   {
     "id": 1,
-    "name": "HP LaserJet Pro M15w Printer",
-    "price": 4500,
-    "stock": 12
+    "name": "Hikvision Model-639 CCTV",
+    "price": 9924.82,
+    "stock": 13
   },
   {
     "id": 2,
-    "name": "Canon PIXMA G3010 All-in-One Printer",
-    "price": 7200,
-    "stock": 8
+    "name": "Reolink Model-117 CCTV",
+    "price": 6460.77,
+    "stock": 10
   },
   {
     "id": 3,
-    "name": "Lenovo IdeaPad Slim 3 Ryzen 5",
-    "price": 24500,
-    "stock": 5
+    "name": "Reolink Model-378 CCTV",
+    "price": 4961.99,
+    "stock": 10
   },
   {
     "id": 4,
-    "name": "Acer Aspire 5 Intel i5 12th Gen",
-    "price": 31500,
-    "stock": 3
+    "name": "Arlo Model-575 CCTV",
+    "price": 4739.22,
+    "stock": 10
   },
   {
     "id": 5,
-    "name": "Logitech MX Master 3S Mouse",
-    "price": 3900,
+    "name": "Reolink Model-508 CCTV",
+    "price": 4550.86,
     "stock": 15
   },
   {
     "id": 6,
-    "name": "Razer BlackWidow V4 Keyboard",
-    "price": 6900,
-    "stock": 7
-  },
-  {
-    "id": 7,
-    "name": "Intel Core i5-12400 Processor",
-    "price": 8800,
-    "stock": 10
-  },
-  {
-    "id": 8,
-    "name": "AMD Ryzen 5 5600X CPU",
-    "price": 9600,
-    "stock": 6
-  },
-  {
-    "id": 9,
-    "name": "ASUS TUF B550M-Plus Motherboard",
-    "price": 7200,
-    "stock": 9
-  },
-  {
-    "id": 10,
-    "name": "MSI GeForce RTX 3060 12GB GPU",
-    "price": 18600,
-    "stock": 4
-  },
-  {
-    "id": 11,
-    "name": "Samsung 980 Pro 1TB NVMe SSD",
-    "price": 5300,
+    "name": "Hikvision Model-996 CCTV",
+    "price": 8011.76,
     "stock": 11
   },
   {
+    "id": 7,
+    "name": "Hikvision Model-331 CCTV",
+    "price": 4777.86,
+    "stock": 8
+  },
+  {
+    "id": 8,
+    "name": "Ezviz Model-312 CCTV",
+    "price": 9312.04,
+    "stock": 9
+  },
+  {
+    "id": 9,
+    "name": "Arlo Model-586 CCTV",
+    "price": 7968.96,
+    "stock": 11
+  },
+  {
+    "id": 10,
+    "name": "Arlo Model-784 CCTV",
+    "price": 2480.37,
+    "stock": 12
+  },
+  {
+    "id": 11,
+    "name": "Dahua Model-374 CCTV",
+    "price": 2714.44,
+    "stock": 9
+  },
+  {
     "id": 12,
-    "name": "Corsair Vengeance 16GB DDR4 3200MHz RAM",
-    "price": 3200,
+    "name": "Reolink Model-966 CCTV",
+    "price": 3565.81,
     "stock": 14
   },
   {
     "id": 13,
-    "name": "Cooler Master MasterBox NR600 Case",
-    "price": 2700,
-    "stock": 10
+    "name": "Epson Model-202 Printer",
+    "price": 14469.99,
+    "stock": 14
   },
   {
     "id": 14,
-    "name": "Logitech C920 HD Webcam",
-    "price": 3200,
-    "stock": 13
+    "name": "Canon Model-300 Printer",
+    "price": 4098.76,
+    "stock": 11
   },
   {
     "id": 15,
-    "name": "TP-Link Archer AX10 Wi-Fi 6 Router",
-    "price": 3100,
+    "name": "Canon Model-270 Printer",
+    "price": 8176.92,
+    "stock": 12
+  },
+  {
+    "id": 16,
+    "name": "Canon Model-560 Printer",
+    "price": 11090.83,
+    "stock": 14
+  },
+  {
+    "id": 17,
+    "name": "Epson Model-921 Printer",
+    "price": 4609.53,
+    "stock": 12
+  },
+  {
+    "id": 18,
+    "name": "Brother Model-175 Printer",
+    "price": 11774.94,
+    "stock": 14
+  },
+  {
+    "id": 19,
+    "name": "HP Model-565 Printer",
+    "price": 6590.23,
+    "stock": 12
+  },
+  {
+    "id": 20,
+    "name": "Brother Model-155 Printer",
+    "price": 13188.61,
+    "stock": 8
+  },
+  {
+    "id": 21,
+    "name": "Lexmark Model-100 Printer",
+    "price": 9277.15,
+    "stock": 13
+  },
+  {
+    "id": 22,
+    "name": "Lexmark Model-404 Printer",
+    "price": 11503.91,
+    "stock": 15
+  },
+  {
+    "id": 23,
+    "name": "Apple Model-271 Smartphone",
+    "price": 32047.45,
+    "stock": 8
+  },
+  {
+    "id": 24,
+    "name": "Oppo Model-352 Smartphone",
+    "price": 34880.67,
+    "stock": 11
+  },
+  {
+    "id": 25,
+    "name": "Oppo Model-325 Smartphone",
+    "price": 34170.85,
+    "stock": 14
+  },
+  {
+    "id": 26,
+    "name": "Apple Model-299 Smartphone",
+    "price": 26551.69,
+    "stock": 15
+  },
+  {
+    "id": 27,
+    "name": "Realme Model-244 Smartphone",
+    "price": 59802.39,
     "stock": 9
+  },
+  {
+    "id": 28,
+    "name": "Samsung Model-654 Smartphone",
+    "price": 32738.88,
+    "stock": 13
+  },
+  {
+    "id": 29,
+    "name": "Realme Model-491 Smartphone",
+    "price": 15458.36,
+    "stock": 11
+  },
+  {
+    "id": 30,
+    "name": "Oppo Model-287 Smartphone",
+    "price": 51416.37,
+    "stock": 15
+  },
+  {
+    "id": 31,
+    "name": "Samsung Model-564 Smartphone",
+    "price": 9140.15,
+    "stock": 10
+  },
+  {
+    "id": 32,
+    "name": "Apple Model-733 Smartphone",
+    "price": 20740.51,
+    "stock": 9
+  },
+  {
+    "id": 33,
+    "name": "Samsung Model-456 Smartphone",
+    "price": 9765.33,
+    "stock": 10
+  },
+  {
+    "id": 34,
+    "name": "Realme Model-853 Smartphone",
+    "price": 51321.1,
+    "stock": 10
+  },
+  {
+    "id": 35,
+    "name": "Oppo Model-165 Smartphone",
+    "price": 30283.22,
+    "stock": 13
+  },
+  {
+    "id": 36,
+    "name": "Apple Model-972 Smartphone",
+    "price": 36449.12,
+    "stock": 9
+  },
+  {
+    "id": 37,
+    "name": "Xiaomi Model-385 Smartphone",
+    "price": 41696.56,
+    "stock": 13
+  },
+  {
+    "id": 38,
+    "name": "Lenovo Model-619 Computer",
+    "price": 30698.83,
+    "stock": 14
+  },
+  {
+    "id": 39,
+    "name": "Dell Model-338 Computer",
+    "price": 34448.12,
+    "stock": 14
+  },
+  {
+    "id": 40,
+    "name": "Dell Model-376 Computer",
+    "price": 38900.74,
+    "stock": 14
+  },
+  {
+    "id": 41,
+    "name": "Lenovo Model-221 Computer",
+    "price": 74531.75,
+    "stock": 13
+  },
+  {
+    "id": 42,
+    "name": "Dell Model-928 Computer",
+    "price": 69102.55,
+    "stock": 15
+  },
+  {
+    "id": 43,
+    "name": "Lenovo Model-322 Computer",
+    "price": 55423.29,
+    "stock": 14
+  },
+  {
+    "id": 44,
+    "name": "Acer Model-424 Computer",
+    "price": 27818.44,
+    "stock": 12
+  },
+  {
+    "id": 45,
+    "name": "Dell Model-133 Computer",
+    "price": 42686.87,
+    "stock": 10
+  },
+  {
+    "id": 46,
+    "name": "Lenovo Model-384 Computer",
+    "price": 70951.21,
+    "stock": 8
+  },
+  {
+    "id": 47,
+    "name": "Lenovo Model-869 Computer",
+    "price": 54816.98,
+    "stock": 15
+  },
+  {
+    "id": 48,
+    "name": "Corsair Model-635 Components",
+    "price": 4214.76,
+    "stock": 13
+  },
+  {
+    "id": 49,
+    "name": "NVIDIA Model-620 Components",
+    "price": 19423.98,
+    "stock": 8
+  },
+  {
+    "id": 50,
+    "name": "NVIDIA Model-923 Components",
+    "price": 17470.37,
+    "stock": 12
+  },
+  {
+    "id": 51,
+    "name": "NVIDIA Model-274 Components",
+    "price": 25206.05,
+    "stock": 9
+  },
+  {
+    "id": 52,
+    "name": "MSI Model-550 Components",
+    "price": 26213.87,
+    "stock": 9
+  },
+  {
+    "id": 53,
+    "name": "Corsair Model-611 Components",
+    "price": 22765.42,
+    "stock": 10
+  },
+  {
+    "id": 54,
+    "name": "AMD Model-417 Components",
+    "price": 28176.13,
+    "stock": 15
+  },
+  {
+    "id": 55,
+    "name": "Corsair Model-354 Components",
+    "price": 16776.3,
+    "stock": 15
+  },
+  {
+    "id": 56,
+    "name": "MSI Model-699 Components",
+    "price": 11049.31,
+    "stock": 10
+  },
+  {
+    "id": 57,
+    "name": "AMD Model-237 Components",
+    "price": 22249.86,
+    "stock": 11
+  },
+  {
+    "id": 58,
+    "name": "MSI Model-368 Components",
+    "price": 12147.07,
+    "stock": 15
+  },
+  {
+    "id": 59,
+    "name": "NVIDIA Model-618 Components",
+    "price": 21738.88,
+    "stock": 13
+  },
+  {
+    "id": 60,
+    "name": "MSI Model-492 Components",
+    "price": 18474.63,
+    "stock": 8
+  },
+  {
+    "id": 61,
+    "name": "Samsung Model-542 Monitors",
+    "price": 21030.64,
+    "stock": 13
+  },
+  {
+    "id": 62,
+    "name": "LG Model-920 Monitors",
+    "price": 23731.87,
+    "stock": 13
+  },
+  {
+    "id": 63,
+    "name": "BenQ Model-570 Monitors",
+    "price": 13183.97,
+    "stock": 11
+  },
+  {
+    "id": 64,
+    "name": "ViewSonic Model-538 Monitors",
+    "price": 8130.05,
+    "stock": 10
+  },
+  {
+    "id": 65,
+    "name": "BenQ Model-708 Monitors",
+    "price": 22250.31,
+    "stock": 10
+  },
+  {
+    "id": 66,
+    "name": "BenQ Model-313 Monitors",
+    "price": 12197.93,
+    "stock": 11
+  },
+  {
+    "id": 67,
+    "name": "Samsung Model-170 Monitors",
+    "price": 24250.86,
+    "stock": 10
+  },
+  {
+    "id": 68,
+    "name": "BenQ Model-444 Monitors",
+    "price": 15427.86,
+    "stock": 8
+  },
+  {
+    "id": 69,
+    "name": "ViewSonic Model-138 Monitors",
+    "price": 14312.32,
+    "stock": 14
+  },
+  {
+    "id": 70,
+    "name": "LG Model-366 Monitors",
+    "price": 16007.02,
+    "stock": 11
+  },
+  {
+    "id": 71,
+    "name": "SteelSeries Model-600 Peripherals",
+    "price": 5002.67,
+    "stock": 13
+  },
+  {
+    "id": 72,
+    "name": "Logitech Model-580 Peripherals",
+    "price": 6548.01,
+    "stock": 10
+  },
+  {
+    "id": 73,
+    "name": "Redragon Model-391 Peripherals",
+    "price": 6489.2,
+    "stock": 9
+  },
+  {
+    "id": 74,
+    "name": "SteelSeries Model-618 Peripherals",
+    "price": 1416.52,
+    "stock": 8
+  },
+  {
+    "id": 75,
+    "name": "Corsair Model-742 Peripherals",
+    "price": 5062.56,
+    "stock": 15
+  },
+  {
+    "id": 76,
+    "name": "Corsair Model-692 Peripherals",
+    "price": 2778.11,
+    "stock": 9
+  },
+  {
+    "id": 77,
+    "name": "Corsair Model-351 Peripherals",
+    "price": 2362.5,
+    "stock": 13
+  },
+  {
+    "id": 78,
+    "name": "Razer Model-515 Peripherals",
+    "price": 855.88,
+    "stock": 8
+  },
+  {
+    "id": 79,
+    "name": "Razer Model-681 Peripherals",
+    "price": 985.07,
+    "stock": 15
+  },
+  {
+    "id": 80,
+    "name": "Redragon Model-335 Peripherals",
+    "price": 6166.72,
+    "stock": 12
+  },
+  {
+    "id": 81,
+    "name": "Logitech Model-297 Peripherals",
+    "price": 932.78,
+    "stock": 10
+  },
+  {
+    "id": 82,
+    "name": "Logitech Model-761 Peripherals",
+    "price": 5950.54,
+    "stock": 9
+  },
+  {
+    "id": 83,
+    "name": "Razer Model-203 Peripherals",
+    "price": 1446.49,
+    "stock": 15
+  },
+  {
+    "id": 84,
+    "name": "Logitech Model-355 Peripherals",
+    "price": 1581.95,
+    "stock": 9
+  },
+  {
+    "id": 85,
+    "name": "SteelSeries Model-521 Peripherals",
+    "price": 5219.68,
+    "stock": 14
+  },
+  {
+    "id": 86,
+    "name": "Xiaomi Model-768 Tablets",
+    "price": 43310.74,
+    "stock": 14
+  },
+  {
+    "id": 87,
+    "name": "Huawei Model-438 Tablets",
+    "price": 22492.4,
+    "stock": 9
+  },
+  {
+    "id": 88,
+    "name": "Xiaomi Model-559 Tablets",
+    "price": 23014.82,
+    "stock": 8
+  },
+  {
+    "id": 89,
+    "name": "Huawei Model-598 Tablets",
+    "price": 34319.97,
+    "stock": 11
+  },
+  {
+    "id": 90,
+    "name": "Apple Model-747 Tablets",
+    "price": 10347.97,
+    "stock": 11
+  },
+  {
+    "id": 91,
+    "name": "Samsung Model-779 Tablets",
+    "price": 29558.58,
+    "stock": 9
+  },
+  {
+    "id": 92,
+    "name": "Apple Model-764 Tablets",
+    "price": 47079.97,
+    "stock": 13
+  },
+  {
+    "id": 93,
+    "name": "Xiaomi Model-346 Tablets",
+    "price": 27842.47,
+    "stock": 10
+  },
+  {
+    "id": 94,
+    "name": "Apple Model-311 Tablets",
+    "price": 42510.3,
+    "stock": 9
+  },
+  {
+    "id": 95,
+    "name": "Samsung Model-168 Tablets",
+    "price": 18539.52,
+    "stock": 10
+  },
+  {
+    "id": 96,
+    "name": "Xiaomi Model-791 Tablets",
+    "price": 30726.73,
+    "stock": 12
+  },
+  {
+    "id": 97,
+    "name": "Lenovo Model-978 Tablets",
+    "price": 42292.47,
+    "stock": 15
+  },
+  {
+    "id": 98,
+    "name": "Samsung Model-951 Tablets",
+    "price": 46204.02,
+    "stock": 12
+  },
+  {
+    "id": 99,
+    "name": "Apple Model-866 Tablets",
+    "price": 25597.13,
+    "stock": 10
+  },
+  {
+    "id": 100,
+    "name": "Huawei Model-719 Tablets",
+    "price": 44644.63,
+    "stock": 15
   }
 ]
