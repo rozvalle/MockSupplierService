@@ -1,5 +1,4 @@
 [
-  // CCTV (12 items)
   {
     "id": 1,
     "name": "Hikvision DS-2CD2043G0-I",
@@ -72,7 +71,6 @@
     "price": 3200,
     "stock": 10
   },
-  // Printer (12 items)
   {
     "id": 13,
     "name": "Canon PIXMA G2010",
@@ -145,7 +143,6 @@
     "price": 19500,
     "stock": 11
   },
-  // Smartphone (12 items)
   {
     "id": 25,
     "name": "Apple iPhone 15",
@@ -218,7 +215,6 @@
     "price": 21900,
     "stock": 14
   },
-  // Computer (12 items)
   {
     "id": 37,
     "name": "Dell XPS 13",
@@ -291,7 +287,6 @@
     "price": 49900,
     "stock": 15
   },
-  // Components (12 items)
   {
     "id": 49,
     "name": "Intel Core i5-13400",
@@ -364,7 +359,6 @@
     "price": 7900,
     "stock": 8
   },
-  // Monitors (12 items)
   {
     "id": 61,
     "name": "Dell UltraSharp U2723QE",
@@ -437,7 +431,7 @@
     "price": 14900,
     "stock": 8
   },
-  // Peripherals (12 items)
+
   {
     "id": 73,
     "name": "Logitech MX Master 3S",
@@ -510,7 +504,6 @@
     "price": 7900,
     "stock": 13
   },
-  // Tablets (16 items)
   {
     "id": 85,
     "name": "Apple iPad Air 5",
